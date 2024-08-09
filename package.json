@@ -1,0 +1,21 @@
+{
+  "name": "estudo_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "estudo",
+    "node",
+    "curso"
+  ],
+  "author": "italo-kalil",
+  "license": "ISC",
+  "description": "Estudo nodeJS",
+  "dependencies": {
+    "estudo_nodejs": "file:",
+    "express": "^4.19.2"
+  }
+}
